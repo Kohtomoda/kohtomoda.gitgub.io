@@ -19,6 +19,7 @@ h2 {
  padding:0 0 10px 0;
  border-bottom:1px solid #999;
  font-size:26px;
+ color:#666;
 }
 
 h2 a { 
@@ -60,11 +61,17 @@ nav{
     margin:0 0 20px 20px;
 }
 
-.col-sm-8{
+.col-sm-6{
     margin:0 0 30px 0;
+}
+
+.portfolio-list{
+    margin:0 0 0 20px;
+    line-height:2em;
 }
 
 footer{
     margin:50px 0 0 0;
     padding:20px;
+    font-weight:bold;
 }
